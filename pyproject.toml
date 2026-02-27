@@ -1,0 +1,9 @@
+[project]
+name = "eo-processing"
+version = "0.1.0"
+description = "Python and EO data processing. Use Maxar open data for flood analysis"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "ipykernel>=7.2.0",
+]
