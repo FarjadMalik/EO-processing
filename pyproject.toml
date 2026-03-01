@@ -5,5 +5,25 @@ description = "Python and EO data processing. Use Maxar open data for flood anal
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "bokeh>=3.8.2",
+    "boto3>=1.42.58",
+    "cogeo-mosaic>=9.1.0",
+    "dask[distributed]>=2026.1.2",
+    "folium>=0.20.0",
+    "geopandas>=1.1.2",
+    "imagecodecs>=2026.1.14",
     "ipykernel>=7.2.0",
+    "leafmap>=0.60.1",
+    "matplotlib>=3.10.8",
+    "numexpr>=2.14.1",
+    "odc-stac>=0.5.2",
+    "pystac>=1.14.3",
+    "python-dotenv>=1.2.1",
+    "rasterio>=1.5.0",
+    "requests>=2.32.5",
+    "rio-cogeo>=7.0.1",
+    "rioxarray>=0.21.0",
+    "s3fs>=0.4.2",
+    "scikit-image>=0.26.0",
+    "shapely>=2.1.2",
 ]
