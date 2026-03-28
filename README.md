@@ -69,8 +69,8 @@ uv --version
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/EO_Processing.git
-cd EO_Processing
+git clone https://github.com/FarjadMalik/EO-Processing.git
+cd EO-Processing
 ```
 
 ### Step 2: Create a Virtual Environment with uv
